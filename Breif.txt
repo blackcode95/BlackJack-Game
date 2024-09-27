@@ -1,0 +1,4 @@
+Breif
+
+let is used for the declaration of Variables.
+
